@@ -6,7 +6,7 @@ A project created to implement a Centralised Data Manager. Here, a specific task
 
 Clone this project and you are good to go!
 
-##Screenshots:
+## Screenshots:
 
 ![Screenshot_1696761542](https://github.com/JeevsDev/centraliseddatamanager/assets/96291802/9aa65727-442b-4a75-9add-b707f8901bea)
 ![Screenshot_1696761548](https://github.com/JeevsDev/centraliseddatamanager/assets/96291802/26a38eb4-5c35-4c84-82b7-4963b881e1a8)
