@@ -41,7 +41,7 @@ class MyApp extends StatelessWidget {
     DataManager dataManager = Provider.of<DataManager>(context);
 
     return MaterialApp(
-      title: 'Data Manager Example',
+      title: 'Centralised Data Manager Example',
       home: Scaffold(
         appBar: AppBar(
           backgroundColor: Colors.blueGrey,
